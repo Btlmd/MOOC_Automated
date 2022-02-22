@@ -6,8 +6,15 @@
 **声明：这个脚本只是用来熟悉`selenium`的使用。其存在和公开并不代表我曾经跳过了、或者鼓励任何人跳过任何必要的教学环节。**
 
 ## 准备工作
-1. 安装 geckodriver + Firefox （或者Chrome + 对应的应用，然后修改相应代码）
+1. 安装浏览器和浏览器对应办版本的驱动
 2. `pip install -r requirements.txt`
+### Firefox
+- 从 https://github.com/mozilla/geckodriver/releases 下载 geckodriver，将驱动加入环境变量。
+- 默认启动FireFox
+### Chrome
+- 从 http://chromedriver.storage.googleapis.com/index.html 下载ChromeDriver，将驱动加入环境变量。
+- `main.py --chrome` 启动Chrome
+- ChromeDriver可能会输出很多错误信息，但这不影响脚本的运行。
 
 ## 使用过程
 1. 运行 `main.py`，它会自动启动浏览器。

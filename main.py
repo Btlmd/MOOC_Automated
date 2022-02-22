@@ -2,6 +2,7 @@ import selenium.webdriver as wd
 from selenium.webdriver.common.by import By
 from time import sleep as slp
 from tqdm import tqdm
+from sys import argv
 
 def sleep(seconds: int):
     print('wait %ds' % seconds)
@@ -17,7 +18,11 @@ def url_update(url: str) -> str:
 
 class mooc_cracker(object):
     def __init__(self):
-        self.d = wd.Firefox()
+        if len(argv) >= 2 and argv[1] == '--chrome':
+            self.d = wd.Chrome()
+        else:
+            self.d = wd.Firefox()
+
         self.d.maximize_window()
         self.d.implicitly_wait(0.5)
 
@@ -37,7 +42,7 @@ class mooc_cracker(object):
                 percentage = int(bar[0].text.replace('完成度：', '').replace('%', ''))
             except:
                 return False
-            if percentage >= 97:
+            if percentage >= 98:
                 return True
         return False
 
@@ -68,7 +73,8 @@ class mooc_cracker(object):
                         bar.update(times[0] - curr)
                         curr = times[0]
                         slp(3)
-            slp(3)
+
+            slp(4)
 
             has_next_flag = False
             for p_ele in buttons:
