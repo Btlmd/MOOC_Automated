@@ -1,0 +1,987 @@
+1645449622015	geckodriver	INFO	Listening on 127.0.0.1:10638
+1645449625087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10639" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilePXNfe8"
+1645449625782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilePXNfe8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10639/devtools/browser/7553e686-b5da-4560-9570-b5ea73513ea5
+1645449629296	Marionette	INFO	Listening on port 10650
+1645449629397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 26952, MediaDecoderStateMachine #1] WARNING: 182595f42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 26952, MediaDecoderStateMachine #1] WARNING: 182561393c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 26952, MediaDecoderStateMachine #1] WARNING: 1825486ec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+[Child 26952, MediaDecoderStateMachine #1] WARNING: 18258884d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 26952, MediaDecoderStateMachine #2] WARNING: 182406b42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WebGL context was lost.
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.zhihu.com/heifetz/column.zswsdid.f57918270b2d264482db.js, line 1: WebGL context was lost.
+JavaScript error: https://cstaticdun.126.net/2.16.1/core.v2.16.1.min.js?v=2742436, line 1: TypeError: _0x9a2d1a is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://cn.bing.com"
+1645461920040	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645461925225	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cdn.sstatic.net/Js/full-anon.en.js?v=20626167f28b, line 1: ReferenceError: Stacks is not defined
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=3c17e2ed94ca, line 1: ReferenceError: Svg is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k5pT0KbHUu3hEt9efW2jJzl2Td-_ix6W4xkPXjNBIu0.js line 1 > eval line 5306 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k5pT0KbHUu3hEt9efW2jJzl2Td-_ix6W4xkPXjNBIu0.js line 1 > eval line 1916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k5pT0KbHUu3hEt9efW2jJzl2Td-_ix6W4xkPXjNBIu0.js line 1 > eval line 7130 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+[Child 26952, MediaDecoderStateMachine #6] WARNING: 182589d82e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645490457711	Marionette	INFO	Stopped listening on port 10650
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 40124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645490461429	geckodriver	INFO	Listening on 127.0.0.1:14787
+1645490464492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "14788" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTdTfUJ"
+1645490465135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTdTfUJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:14788/devtools/browser/cbf100f2-c915-4d6b-b4ec-e934e811796e
+1645490468562	Marionette	INFO	Listening on port 14800
+1645490468678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://at.alicdn.com/t/font_2914297_aiu6672k7jm.js, line 1: TypeError: document.body is null
+JavaScript error: https://at.alicdn.com/t/font_956123_fw8xrxx7a4u.js, line 1: TypeError: document.body is null
+1645490485718	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 30920, MediaDecoderStateMachine #1] WARNING: 1e904c994a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 30920, MediaDecoderStateMachine #1] WARNING: 1e90112b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 30920, MediaDecoderStateMachine #1] WARNING: 1e9038fa9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 30920, MediaDecoderStateMachine #1] WARNING: 1e90112b120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645490654653	geckodriver	INFO	Listening on 127.0.0.1:1604
+1645490657704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1605" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileWuGQaV"
+1645490658320	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileWuGQaV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1605/devtools/browser/3492d4c2-7ff9-4b6d-80d7-bae6251bd75e
+1645490662031	Marionette	INFO	Listening on port 1620
+1645490662514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18320, MediaDecoderStateMachine #1] WARNING: 244464aaf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18320, MediaDecoderStateMachine #1] WARNING: 2443af8e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18320, MediaDecoderStateMachine #1] WARNING: 244498e42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: , line 0: uncaught exception: Object
+1645490976563	geckodriver	INFO	Listening on 127.0.0.1:9880
+1645490979638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9881" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilecE5ucW"
+1645490980249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilecE5ucW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9881/devtools/browser/54dbba09-f89e-4f05-ae06-42be58f84b8d
+1645490983539	Marionette	INFO	Listening on port 9890
+1645490983844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645491425554	geckodriver	INFO	Listening on 127.0.0.1:10339
+1645491428627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10340" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileo89iai"
+1645491429263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileo89iai\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10340/devtools/browser/089f73e0-e5dc-40b6-84f5-54da88f73063
+1645491432791	Marionette	INFO	Listening on port 10350
+1645491432849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645491533562	Marionette	INFO	Stopped listening on port 10350
+[Parent 36684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te-debugging-port" "10752" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofiled5vUON"
+1645491533585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofiled5vUON\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10752/devtools/browser/0b47cd8b-349d-49af-8382-dad318d3caa6
+1645491537289	Marionette	INFO	Listening on port 10760
+1645491537658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645491695560	Marionette	INFO	Stopped listening on port 10761645491697461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10690" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilez83BBq"
+1645491698083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilez83BBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10690/devtools/browser/c239e855-af6e-459c-8576-58aa16b93a28
+1645491701423	Marionette	INFO	Listening on port 10700
+1645491701679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645491852893	geckodriver	INFO	Listening on 127.0.0.1:11239
+1645491855952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11240" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilePqnN7h"
+1645491856586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilePqnN7h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11240/devtools/browser/db506cc6-3960-42b2-98bd-876bab9959da
+1645491860161	Marionette	INFO	Listening on port 11252
+1645491860275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "stylesheets: fetch failed for https://proxt-cdn.xuetangx.com/fe-proxtassets/1341.d64c0da5558c35e91141.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://proxt-cdn.xuetangx.com/fe-proxtassets/1341.d64c0da5558c35e91141.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://proxt-cdn.xuetangx.com/fe-proxtassets/1341.d64c0da5558c35e91141.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://proxt-cdn.xuetangx.com/fe-proxtassets/1341.d64c0da5558c35e91141.css, using system principal instead."
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483662/pagestyle26, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\ninspectNode@resource://devtools/client/framework/devtools.js:778:25\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483662/pagestyle26, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1609:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:792:24\nthrottle/<@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:630:12\n_emit@resource://devtools/shared/event-emitter.js:244:34\nemit@resource://devtools/shared/event-emitter.js:190:18\nemit@resource://devtools/shared/event-emitter.js:342:18\nonPacket@resource://devtools/shared/protocol/Front.js:336:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483662/pagestyle26, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: (new TypeError("InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.", "resource://devtools/server/actors/style-rule.js", 157))
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 157: TypeError: InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 157: TypeError: InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: (new TypeError("InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.", "resource://devtools/server/actors/style-rule.js", 157))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: (new TypeError("InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.", "resource://devtools/server/actors/style-rule.js", 157))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: (new TypeError("InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet.", "resource://devtools/server/actors/style-rule.js", 157))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+[Child 25104, MediaDecoderStateMachine #1] WARNING: 1c978af3c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645492078110	Marionette	INFO	Stopped listening on port 11252
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 44056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645492085753	geckodriver	INFO	Listening on 127.0.0.1:5506
+1645492088809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5507" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilenhJNjB"
+1645492089497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilenhJNjB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5507/devtools/browser/59ac2322-5096-4a59-a06e-bf5e45acb201
+1645492093228	Marionette	INFO	Listening on port 5519
+1645492093618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 1583b3d34a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 1582a7fb120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 15822280580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 158222802e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #1] WARNING: 15822231ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #2] WARNING: 1582a7fb820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 1582a6e79e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 15836195040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 1582fbc73c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 1583b355e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 158309c8900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #3] WARNING: 1583a5a0c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #4] WARNING: 1582f3b2660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #6] WARNING: 1582227e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #6] WARNING: 1582a7fb660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: https://pss.bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 36232, MediaDecoderStateMachine #7] WARNING: 15830163900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #8] WARNING: 15828a86120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #8] WARNING: 15834b86820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #8] WARNING: 15830163900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #8] WARNING: 1582227e9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #9] WARNING: 1582e5e6040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 36232, MediaDecoderStateMachine #9] WARNING: 158379d9040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645500394820	Marionette	INFO	Stopped listening on port 5519
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 24432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+Tools listening on ws://localhost:1072/devtools/browser/53ce96f0-a411-479b-94b2-af28e6c3c41c
+1645500345700	Marionette	INFO	Listening on port 1085
+1645500346067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+[Child 34764, MediaDecoderStateMachine #3] WARNING: 281530a84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 584: TypeError: this.pageStyle is null
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 584: TypeError: this.pageStyle is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 584: TypeError: this.pageStyle is null
+JavaScript error: resource://devtools/server/actors/style-rule.js, line 584: TypeError: this.pageStyle is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "this.pageStyle is null"
+console.error: (new TypeError("this.pageStyle is null", "resource://devtools/server/actors/style-rule.js", 584))
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+1645500826680	Marionette	INFO	Stopped listening on port 1085
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645500843339	geckodriver	INFO	Listening on 127.0.0.1:2171
+1645500846404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2172" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileSq2xBP"
+1645500847199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileSq2xBP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2172/devtools/browser/b66f2c60-2cd8-40b8-9bf3-88f9bd81c0f0
+1645500851707	Marionette	INFO	Listening on port 2181
+1645500852174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645501050313	geckodriver	INFO	Listening on 127.0.0.1:2898
+1645501053337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2899" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileztbYsY"
+1645501054245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileztbYsY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2899/devtools/browser/16ac99cf-ed46-4bcf-b574-cc42a68c97d3
+1645501058740	Marionette	INFO	Listening on port 2911
+1645501059093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1645501106278	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645501735127	Marionette	INFO	Stopped listening on port 2911
+[Parent 30404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 30404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+71	Marionette	INFO	Listening on port 3414
+1645501294412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645501464916	Marionette	INFO	Stopped listening on port 3414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 42764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+01464377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilenoPf1s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3890/devtools/browser/9d94a08a-b28e-4d4c-b7bf-03d892a57dbb
+1645501469435	Marionette	INFO	Listening on port 3898
+1645501469877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 39568, MediaDecoderStateMachine #1] WARNING: 242838f59e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 39568, MediaDecoderStateMachine #1] WARNING: 242838faf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 39568, MediaDecoderStateMachine #1] WARNING: 242850fc040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645501746654	geckodriver	INFO	Listening on 127.0.0.1:4546
+1645501749691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4547" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileRAaFP0"
+1645501750392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileRAaFP0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4547/devtools/browser/9aabb170-abe7-47bc-83ed-c1c9df349eaf
+1645501754243	Marionette	INFO	Listening on port 4555
+1645501754430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645501846615	geckodriver	INFO	Listening on 127.0.0.1:5170
+1645501849648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "5171" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile2rIIPQ"
+1645501850300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofile2rIIPQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:5171/devtools/browser/e4b4f33b-72f8-4d03-9b77-5d4b65f2d2c6
+1645501854396	Marionette	INFO	Listening on port 5180
+1645501854888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad90ca8c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b628820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9bd052e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b6289e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b628e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b62f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 29448, MediaDecoderStateMachine #2] WARNING: 1ad9c94ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b6543c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+[Child 29448, MediaDecoderStateMachine #1] WARNING: 1ad9b628e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645504481799	geckodriver	INFO	Listening on 127.0.0.1:9754
+1645504484878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9755" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilel6WEKp"
+1645504485453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilel6WEKp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9755/devtools/browser/6467b97a-40ec-461a-9bb0-4c4f0cc92530
+1645504488933	Marionette	INFO	Listening on port 9769
+1645504489107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 22608, MediaDecoderStateMachine #1] WARNING: 2034f562200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22608, MediaDecoderStateMachine #1] WARNING: 20355076040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22608, MediaDecoderStateMachine #1] WARNING: 20355076040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645504558004	geckodriver	INFO	Listening on 127.0.0.1:9984
+1645504561091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9985" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileqOMMOZ"
+1645504561732	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileqOMMOZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9985/devtools/browser/afa4dbbb-233e-4270-a9eb-4998f614bb60
+1645504565374	Marionette	INFO	Listening on port 9993
+1645504565411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 44100, MediaDecoderStateMachine #1] WARNING: 1d3cde50580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 44100, MediaDecoderStateMachine #1] WARNING: 1d3c2aa8e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 44100, MediaDecoderStateMachine #1] WARNING: 1d3c2aa8e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1645505103396	Marionette	INFO	Stopped listening on port 9993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 22560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645505109371	geckodriver	INFO	Listening on 127.0.0.1:10798
+1645505112426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10799" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileK6h8Ho"
+1645505113110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileK6h8Ho\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10799/devtools/browser/d485852e-7dc1-40a6-9c8f-35232bb9cfe2
+1645505116405	Marionette	INFO	Listening on port 10805
+1645505116619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 24268, MediaDecoderStateMachine #1] WARNING: 16a6f3ef900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 24268, MediaDecoderStateMachine #1] WARNING: 16a61497e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645505274634	geckodriver	INFO	Listening on 127.0.0.1:11158
+1645505277726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11159" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTTWoMw"
+1645505278298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileTTWoMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11159/devtools/browser/6283252e-3679-4ede-b608-0249b55382ce
+1645505281890	Marionette	INFO	Listening on port 11170
+1645505281930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 41712, MediaDecoderStateMachine #1] WARNING: 1dc55b94e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 41712, MediaDecoderStateMachine #1] WARNING: 1dc47d9a900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645505628917	geckodriver	INFO	Listening on 127.0.0.1:11631
+1645505632011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11632" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileGY8X1R"
+1645505632589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileGY8X1R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11632/devtools/browser/f18869f6-5ef8-4a18-aa34-fa02df802a50
+1645505635959	Marionette	INFO	Listening on port 11640
+1645505636194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195d4f2120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11952597580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11958ea4660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11958ea4660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11952531e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195a8c4820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11958ea4d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195a8c4900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195d0e04a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195a8c44a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11952596d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195a8c4ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11958ea4ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195a8c42e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 11958ea4040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 22616, MediaDecoderStateMachine #1] WARNING: 1195d0dd040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645513944928	geckodriver	INFO	Listening on 127.0.0.1:11595
+1645513948013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11596" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilehzX8uY"
+1645513948589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilehzX8uY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11596/devtools/browser/7918d9f4-4c2f-4f1b-8205-5240bf19cbe3
+1645513951989	Marionette	INFO	Listening on port 11602
+1645513952191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://proxt-cdn.xuetangx.com/fe-proxtassets/802_57d413c0f19b6b23db55.js, line 1: InternalError: too much recursion
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc7ce81e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc6e7944a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc74432820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc6e794820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc72654120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc6e794740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc72654580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #1] WARNING: 1cc6e7944a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #2] WARNING: 1cc7391fd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 18300, MediaDecoderStateMachine #2] WARNING: 1cc6ee69740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645522895697	Marionette	INFO	Stopped listening on port 11602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6100, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645524015159	geckodriver	INFO	Listening on 127.0.0.1:4539
+1645524018271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4540" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileDG7sCN"
+1645524019424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileDG7sCN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:4540/devtools/browser/03a518f0-1a70-4ed9-9549-0bc935f1f063
+1645524024348	Marionette	INFO	Listening on port 4549
+1645524024599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://proxt-cdn.xuetangx.com/fe-proxtassets/120_840d53d2037d3ed47b9c.js, line 6: NavigationDuplicated: Avoided redundant navigation to current location: "/courselist".
+JavaScript error: https://proxt-cdn.xuetangx.com/fe-proxtassets/120_840d53d2037d3ed47b9c.js, line 6: Error: Navigation cancelled from "/courselist" to "/lms/8NpUsbraew9/3054976/studycontent" with a new navigation.
+[Child 35300, MediaDecoderStateMachine #1] WARNING: 24acfaf1ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 35300, MediaDecoderStateMachine #1] WARNING: 24adfae64a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645524518898	Marionette	INFO	Stopped listening on port 4549
+[Parent 27464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:132:26
+
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 27464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645529441894	geckodriver	INFO	Listening on 127.0.0.1:3452
+1645529445007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3453" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexxzYkH"
+1645529445592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilexxzYkH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:3453/devtools/browser/d7d00fce-3220-4131-9d62-887bf3322213
+1645529448714	Marionette	INFO	Listening on port 3459
+1645529449189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1645529459893	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07bd9f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #2] WARNING: 1de076e5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #2] WARNING: 1de076e5120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #2] WARNING: 1de070df040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012cac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de013052e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099f820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de070dfd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012ca3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099ff20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fec80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de013053c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099f200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012ca120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012caac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de013053c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01305200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01eaaba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01eaad60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01eaa660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07027ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07027ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de070273c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0946c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07027580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012caba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de070df4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099fba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07027e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de012ca820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01ec3c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009feba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de0099fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009feba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de07027d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de01305040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de070db2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de070db9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 38716, MediaDecoderStateMachine #1] WARNING: 1de009fe3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645575703893	Marionette	INFO	Stopped listening on port 3459
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 37728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645575707556	geckodriver	INFO	Listening on 127.0.0.1:7582
+1645575710643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7583" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileo6qNeo"
+1645575711746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileo6qNeo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7583/devtools/browser/45ddf55e-3b2a-4c00-9b99-7787bf68c814
+1645575716626	Marionette	INFO	Listening on port 7595
+1645575717009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 17580cfa9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 17580cfac80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 175801dcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 175801dcd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 175801dcba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 17580974120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 175801dcf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 175809744a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 1758b963e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 1758002df20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 1758d833820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+[Child 20616, MediaDecoderStateMachine #1] WARNING: 1758e5fa580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645583775799	Marionette	INFO	Stopped listening on port 7595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652631632493	geckodriver	INFO	Listening on 127.0.0.1:10464
+1652631632594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10465" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileP0BUjt"
+1652631633581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofileP0BUjt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10465/devtools/browser/ea61532d-11e6-4f6b-9049-c2eafc27e6d5
+1652631637643	Marionette	INFO	Listening on port 10468
+1652631637978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652671018415	geckodriver	INFO	Listening on 127.0.0.1:9005
+1652671018944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9006" "-no-remote" "-profile" "C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilempmbmG"
+1652671019600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joshu\\AppData\\Local\\Temp\\rust_mozprofilempmbmG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9006/devtools/browser/aca23577-2419-4bf6-9e4f-076d872b966c
+1652671023050	Marionette	INFO	Listening on port 9009
+1652671023168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14144, MediaDecoderStateMachine #1] WARNING: 1e63faf2570 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 14144, MediaDecoderStateMachine #2] WARNING: 1e63faf2790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+[Child 14144, MediaDecoderStateMachine #2] WARNING: 1e626d32cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:327
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652673393455	Marionette	INFO	Stopped listening on port 9009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

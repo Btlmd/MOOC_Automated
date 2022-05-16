@@ -72,6 +72,10 @@ class mooc_cracker(object):
                         times = self.get_time()
                         bar.update(times[0] - curr)
                         curr = times[0]
+                        play_stop = self.d.find_elements(By.CLASS_NAME, 'xt_video_bit_play_btn')
+                        if len(play_stop) != 0:
+                            if play_stop[0].is_displayed():
+                                play_stop[0].click()
                         slp(3)
 
             slp(4)
